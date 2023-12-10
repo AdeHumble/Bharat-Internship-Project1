@@ -2,7 +2,7 @@
 # Titanic Classification Project
 
 <div align="center">
-  <img src="[https://your-image-url.com/your-image.png](https://www.bing.com/images/blob?bcid=qCXYq0WANWkGZw)" alt="Project Logo" width="300">
+  <img src="[[https://your-image-url.com/your-image.png](https://www.bing.com/images/blob?bcid=qCXYq0WANWkGZw)]([https://www.bing.com/images/blob?bcid=qCXYq0WANWkGZw](https://www.bing.com/images/blob?bcid=qCXYq0WANWkGZw))" alt="Project Logo" width="300">
 </div>
 
 ## Overview
