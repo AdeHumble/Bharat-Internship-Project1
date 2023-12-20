@@ -65,7 +65,7 @@ This project is part of the Bharat Virtual Internship and focuses on building a 
 
 ## Conclusion
 
-Upon submitting the `submission.csv` file on the Kaggle competition, the model achieved a metric score of approximately 76.56%, indicating a reasonable level of accuracy.
+Upon submitting the `submission.csv` file on the Kaggle competition, the model achieved a metric score of approximately 77.03%, indicating a reasonable level of accuracy.
 
 ---
 
